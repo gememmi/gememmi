@@ -1,10 +1,9 @@
-Hi there! My name is Emily. I am a fullstack developer.
+Hi there! My name is Emily. I am a fullstack developer and STEAM educator.
 
-:sunflower: I am currently learning...data structures and algorithms! And Python! While also trying to create a portfolio for myself.
+:sunflower: I am currently learning...Python! And how to be a better Web Development teacher :) While also trying to create a portfolio for myself.
 
 
-:mushroom: I am most interested in frontend design and hope to be a React and React 
-Native genius in the near future. 
+:mushroom: I am most interested in frontend design, but I will not be limiting myself to that. I am also interested about learning more about computer science and programming logic. 
 
 
 :mailbox_with_mail: Where to reach me...
@@ -14,3 +13,5 @@ Native genius in the near future.
 
     
     - Blog: https://medium.com/@emelizadaniels
+
+    -Site: coming soon! :)
